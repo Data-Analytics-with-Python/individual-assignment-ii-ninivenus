@@ -1,1 +1,3 @@
-100/100
+C2-ii) Comment on lower/upper fence, median, q1, q3, outliers: -5 
+95/100
+
